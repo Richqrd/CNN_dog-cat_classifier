@@ -1,6 +1,7 @@
 # CNN_dogcat_classifier
 
-**This is a compilation of attempts to create CNNs to classify whether images contain either dogs or cats. The models directory containing all models is excluded because of size**
+**This is a compilation of attempts to create CNNs to classify whether images contain either dogs or cats.**
+*The 'models' directory containing all the trained neural network models and weights is excluded in the repository because of size, but can be found here:* (https://drive.google.com/drive/folders/1quS8edFfFNworRGatKCiGTeFmVXTipxg?usp=sharing)
 
 Small comments about version updates are included at the top of each Jupyter notebook.
 
