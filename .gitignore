@@ -1,0 +1,6 @@
+data/test/*
+!data/test/1.jpg
+
+data/train/*
+!data/train/cat.1.jpg
+!data/train/dog.1.jpg
